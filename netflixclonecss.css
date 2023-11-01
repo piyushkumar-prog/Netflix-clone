@@ -1,0 +1,701 @@
+body{
+    background-color: black;
+}
+.logo{
+    position:absolute;
+    left:161px;
+    top:25px;
+    width: 178px;
+    height: 55px;
+    
+
+}
+.poster{
+    position:absolute;
+    top:-200px;
+    left:-198px;
+    z-index:-1;
+    opacity:0.3;
+    width:1750px;
+    height:1000px;
+}
+.c2{
+    position:absolute;
+    color:white;
+    font-size: 60px;
+    font-family:'Franklin Gothic Medium';
+    text-align: center;
+    left:190px;
+    top:260px;
+}
+.b1{
+    position:absolute;
+    background-color:rgb(235, 25, 25) ;
+    color:whitesmoke;
+    border-radius:5px ;
+    height:37px;
+    width:88px;
+    border:0cap;
+    left:1095px;
+    top:33px;
+    font-family:'PT Sans';
+    font-size: 16px;
+
+}
+.lang{
+    position: absolute;
+    background-color:rgb(34, 32, 32);
+    opacity:0.5 ;
+    border-color: white;
+    color:white;
+    border-radius:5px;
+    width:142px;
+    height:36px;
+    left:930px;
+    top:33px;
+    text-align: center;
+    font-size:19px;
+
+}
+.c3{
+    position:absolute;
+    color:white;
+    font-size: 28px;
+    font-family:sans-serif;
+    text-align: center;
+    left:480px;
+    top:380px;
+}
+.c4{
+    position:absolute;
+    color:white;
+    font-size: 24px;
+    font-family:sans-serif;
+    text-align: center;
+    left:310px;
+    top:450px;
+}
+.c7{
+    position: absolute;
+    background-color:black;
+    opacity:0.5 ;
+    border-color: white;
+    color:white;
+    border-radius:5px;
+    width:430px;
+    height:60px;
+    left:350px;
+    top:520px;
+    text-align: left;
+    font-size:19px;
+
+
+}
+.b2{
+    position:absolute ;
+    background-color:rgb(235, 25, 25) ;
+    color:whitesmoke;
+    border-radius:5px ;
+    height:65px;
+    width:240px;
+    border:0cap;
+    left:797px;
+    top:520px;
+    font-family:'PT Sans';
+    font-size: 30px;
+
+}
+.c8{
+    position:absolute;
+    color:white;
+    font-size: 60px;
+    font-family:'Franklin Gothic Medium';
+    text-align: center;
+    left:190px;
+    top:880px;
+}
+.c9{
+    position:absolute;
+    color:white;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    left:-240px;
+    top:1000px;
+}
+
+.img1{
+    position:absolute;
+    left:700px;
+    top:860px;
+    width:530px;
+    height:350px;
+}
+
+.c10{
+    position:absolute;
+    color:white;
+    font-size: 60px;
+    font-family:'Franklin Gothic Medium';
+    text-align: center;
+    left:490px;
+    top:1400px;
+}
+
+.img2{
+    position:absolute;
+    left:100px;
+    top:1450px;
+    width:530px;
+    height:350px;
+}
+
+.c11{
+    position:absolute;
+    color:white;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    left:600px;
+    top:1660px;
+}
+
+.img3{
+    position:absolute;
+    left:700px;
+    top:2000px;
+    width:520px;
+    height:360px;
+}
+
+.c12{
+    position:absolute;
+    color:white;
+    font-size: 65px;
+    font-family:'Franklin Gothic Medium';
+    text-align: center;
+    left:150px;
+    top:2000px;
+}
+
+.c13{
+    position:absolute;
+    color:white;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    left:100px;
+    top:2130px;
+}
+
+.img4{
+    position:absolute;
+    left:160px;
+    top:2540px;
+    width:510px;
+    height:380px;
+}
+
+.c14{
+    position:absolute;
+    color:white;
+    font-size: 60px;
+    font-family:'Franklin Gothic Medium';
+    text-align: center;
+    left:360px;
+    top:2540px;
+}
+
+.c15{
+    position:absolute;
+    color:white;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    left:640px;
+    top:2730px;
+}
+
+.c16{
+    position:absolute;
+    color:white;
+    font-size: 60px;
+    font-family:'Franklin Gothic Medium';
+    text-align: center;
+    left:290px;
+    top:3015px;
+}
+
+.b3{
+    position:absolute ;
+    background-color:rgb(48, 46, 46) ;
+    color:whitesmoke;
+    border-radius:0px ;
+    height:90px;
+    width:1000px;
+    border:0cap;
+    left:170px;
+    top:3165px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    text-align:left;
+
+}
+
+.b4{
+    position:absolute ;
+    background-color:rgb(48, 46, 46) ;
+    color:whitesmoke;
+    border-radius:0px ;
+    height:90px;
+    width:1000px;
+    border:0cap;
+    left:170px;
+    top:3265px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    text-align:left;
+
+}
+
+.b5{
+    position:absolute ;
+    background-color:rgb(48, 46, 46) ;
+    color:whitesmoke;
+    border-radius:0px ;
+    height:90px;
+    width:1000px;
+    border:0cap;
+    left:170px;
+    top:3365px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    text-align:left;
+
+}
+
+.b6{
+    position:absolute ;
+    background-color:rgb(48, 46, 46) ;
+    color:whitesmoke;
+    border-radius:0px ;
+    height:90px;
+    width:1000px;
+    border:0cap;
+    left:170px;
+    top:3465px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    text-align:left;
+
+}
+
+.b7{
+    position:absolute ;
+    background-color:rgb(48, 46, 46) ;
+    color:whitesmoke;
+    border-radius:0px ;
+    height:90px;
+    width:1000px;
+    border:0cap;
+    left:170px;
+    top:3565px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    text-align:left;
+
+}
+
+.b8{
+    position:absolute ;
+    background-color:rgb(48, 46, 46) ;
+    color:whitesmoke;
+    border-radius:0px ;
+    height:90px;
+    width:1000px;
+    border:0cap;
+    left:170px;
+    top:3665px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    text-align:left;
+
+}
+
+.b3:hover, .b4:hover, .b5:hover, .b6:hover, .b7:hover,.b8:hover{
+    background-color: rgb(59, 57, 57);
+}
+
+.c17{
+    position:absolute;
+    color:white;
+    font-size: 23px;
+    font-family:sans-serif;
+    text-align: center;
+    left:310px;
+    top:3815px;
+}
+
+.b9{
+    position:absolute ;
+    background-color:rgb(235, 25, 25) ;
+    color:whitesmoke;
+    border-radius:5px ;
+    height:65px;
+    width:240px;
+    border:0cap;
+    left:797px;
+    top:3885px;
+    font-family:'PT Sans';
+    font-size: 30px;
+
+}
+
+.c18{
+    position: absolute;
+    background-color:black;
+    opacity:0.5 ;
+    border-color: white;
+    color:white;
+    border-radius:5px;
+    width:430px;
+    height:60px;
+    left:320px;
+    top:3885px;
+    text-align: left;
+    font-size:19px;
+
+}
+
+.c19{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 19px;
+    font-family:sans-serif;
+    text-align: center;
+    left:170px;
+    top:4080px;
+}
+
+.c20{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    text-align: center;
+    left:170px;
+    top:4140px;
+}
+
+.c21{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    text-align: center;
+    left:170px;
+    top:4180px;
+}
+
+.c22{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    text-align: center;
+    left:170px;
+    top:4220px;
+}
+
+.c23{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    text-align: center;
+    left:170px;
+    top:4260px;
+}
+
+.c24{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    text-align: center;
+    left:430px;
+    top:4140px;
+}
+
+.c25{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    text-align: center;
+    left:430px;
+    top:4180px;
+}
+
+.c26{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    text-align: center;
+    left:430px;
+    top:4220px;
+}
+
+.c27{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    text-align: center;
+    left:430px;
+    top:4260px;
+}
+
+.c28{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    text-align: center;
+    left:690px;
+    top:4140px;
+}
+
+.c29{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    text-align: center;
+    left:690px;
+    top:4180px;
+}
+
+.c30{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    text-align: center;
+    left:690px;
+    top:4220px;
+}
+
+.c31{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    text-align: center;
+    left:690px;
+    top:4260px;
+}
+
+.c32{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    text-align: center;
+    left:950px;
+    top:4140px;
+}
+
+.c33{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    text-align: center;
+    left:950px;
+    top:4180px;
+}
+
+.c34{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    text-align: center;
+    left:950px;
+    top:4220px;
+}
+
+.lang1{
+    position: absolute;
+    background-color:rgb(34, 32, 32);
+    opacity:0.5 ;
+    border-color: white;
+    color:white;
+    border-radius:5px;
+    width:142px;
+    height:36px;
+    left:170px;
+    top:4320px;
+    text-align: center;
+    font-size:19px;
+
+}
+
+.end{
+    position:absolute;
+    color:rgb(168, 165, 165);
+    font-size: 16px;
+    font-family:sans-serif;
+    left:170px;
+    top:4370px;
+}
+
+.b1:hover, .b2:hover, .b9:hover{
+    background-color: rgb(207, 27, 27);
+}
+
+.lang:focus, .lang1:focus{
+    border-width: 1px;
+    border-color: rgb(253, 249, 249);
+    outline-color: white;
+    outline-offset: 3px;
+
+}
+
+.c7:focus{
+    border-width: 1px;
+    border-color: rgb(253, 249, 249);
+    outline-color: white;
+    outline-offset: 4px;
+}
+
+
+.l1{
+    position: absolute;
+    color:white;
+    left:368px;
+    top:540px;
+    text-align: left;
+    font-size:19px;
+
+
+}
+
+.c18:focus{
+    border-width: 1px;
+    border-color: rgb(253, 249, 249);
+    outline-color: white;
+    outline-offset: 4px;
+}
+
+hr.h1{
+   position: relative;
+   width:520vw;
+   left:-50px;
+   top:705px;
+   color:rgb(32, 32, 32);
+   height:0px ;
+   border: 5px solid rgb(32,32,32);
+}
+
+hr.h2{
+    position: relative;
+    width:520vw;
+    left:-50px;
+    top:1250px;
+    color:rgb(32, 32, 32);
+    height:0px ;
+    border: 5px solid rgb(32,32,32);
+ }
+
+ hr.h3{
+    position: relative;
+    width:520vw;
+    left:-50px;
+    top:1800px;
+    color:rgb(32, 32, 32);
+    height:0px ;
+    border: 5px solid rgb(32,32,32);
+ }
+
+ hr.h4{
+    position: relative;
+    width:520vw;
+    left:-50px;
+    top:2310px;
+    color:rgb(32, 32, 32);
+    height:0px ;
+    border: 5px solid rgb(32,32,32);
+ }
+
+ hr.h5{
+    position: relative;
+    width:520vw;
+    left:-50px;
+    top:2830px;
+    color:rgb(32, 32, 32);
+    height:0px ;
+    border: 5px solid rgb(32,32,32);
+ }
+
+ .p1{
+    position:absolute ;
+    color:whitesmoke;
+    left:1110px;
+    top:3095px;
+    font-size: 70px;
+    text-align:left;
+
+}
+
+.p2{
+    position:absolute ;
+    color:whitesmoke;
+    left:1110px;
+    top:3195px;
+    font-size: 70px;
+    text-align:left;
+
+}
+
+.p3{
+    position:absolute ;
+    color:whitesmoke;
+    left:1110px;
+    top:3295px;
+    font-size: 70px;
+    text-align:left;
+
+}
+
+.p4{
+    position:absolute ;
+    color:whitesmoke;
+    left:1110px;
+    top:3395px;
+    font-size: 70px;
+    text-align:left;
+
+}
+
+.p5{
+    position:absolute ;
+    color:whitesmoke;
+    left:1110px;
+    top:3495px;
+    font-size: 70px;
+    text-align:left;
+
+}
+
+.p6{
+    position:absolute ;
+    color:whitesmoke;
+    left:1110px;
+    top:3595px;
+    font-size: 70px;
+    text-align:left;
+
+}
